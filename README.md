@@ -1,2 +1,2 @@
 # Pewlett-Hackard-Analysis
-SQL Beginner Studies 
+Structured Query Language (SQL) Beginner Studies 
