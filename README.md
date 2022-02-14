@@ -11,6 +11,6 @@ adressing the human resource retirement queries.
 
 ## Results
 
-[](Resources/Fig1.png)
+![](Resources/Fig1.png)
 
 
