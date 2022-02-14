@@ -15,3 +15,5 @@ focuses on providing studies adressing the human resource retirement queries.
 Figure 1: Number of Employess by Title Born between 1952 and 1955.
 
 
+![](Resources/Fig2.png)
+Figure 2: Number of Eligible Employees by Title Born in 1965 for Mentorship.
