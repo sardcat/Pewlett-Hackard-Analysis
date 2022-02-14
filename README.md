@@ -11,6 +11,7 @@ focuses on providing studies adressing the human resource retirement queries.
 
 ## Results
 
-![](Resources/Fig1.png)Figure 1: Number of Employess by Title Born between 1952 and 1955.
+![](Resources/Fig1.png)
+Figure 1: Number of Employess by Title Born between 1952 and 1955.
 
 
